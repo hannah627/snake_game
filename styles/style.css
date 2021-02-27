@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Lato', 'Lucida Sans';
+    background-color: #264653;
+}
+
+html {
+    margin: 0
+}
+
+header {
+    background-color:#264653;
+    color:#f4a261;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #f4a261;
+    background-color:#264653;
+    margin: 0;
+    text-align: center;
+    font-size: 36px;
+}
+
+p{
+    font-size: 20px;
+}
+
+canvas {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: #e9c46a;
+    text-align: center;
+    display: inline;
+    /* flex boxes? */
+}
